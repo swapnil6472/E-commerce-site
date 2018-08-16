@@ -1,0 +1,249 @@
+.customDiv1{
+					
+			background-color:white;
+
+}
+.customDiv2{
+					
+			background-color:black;
+			width:auto;
+
+}
+
+
+.map3 {
+    /* The image used */
+    background-image: url("taj2.png");
+
+    /* Full height */
+      height:50%;
+  
+    /* Center and scale the image nicely */
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+p.sansserif {
+ font-family: Arial, Helvetica, sans-serif;
+    font-style:bold;
+	font-size:35px;
+    color:white;
+	}
+.sansserif1 {
+ font-family: Arial, Helvetica, sans-serif;
+    font-style:bold;
+	font-size:15px;
+    color:white;
+	}
+.sansserif2 {
+ font-family: Arial, Helvetica, sans-serif;
+    font-style:bold;
+	font-size:10px;
+    color:white;
+	}
+
+@media only screen and (max-width: 600px) {
+    .container2 ,.container3 {
+        width:auto;
+		 align:center;
+		 
+		
+    }
+}
+	
+	
+	.bg3 {
+    /* The image used */
+    background-image: url("https://i01.appmifile.com/webfile/globalimg/2018/02141/overall-self-img.png?34");
+
+    /* Full height */
+   
+   height:40%;
+   width:auto;
+  
+    /* Center and scale the image nicely */
+    background-position: top-center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+	.bg4 {
+    /* The image used */
+    background-image: url("https://images.freecreatives.com/wp-content/uploads/2016/04/Black-Headphones-with-Wire-Wallpaper.jpg");
+
+    /* Full height */
+   
+   height:30%;
+   width:auto;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+	
+	
+	
+.bg1 {
+    /* The image used */
+    background-image: url("sh.jpg");
+
+    /* Full height */
+   
+   height:80%;
+   width:auto;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.bg5 {
+    /* The image used */
+    background-image: url("http://blog.gamerstuff.fr/wp-content/uploads/2012/06/clavier-cm-storm-quick-fire-pro-07-864x400_c.jpg");
+
+    /* Full height */
+   
+   height:30%;
+   width:auto;
+  
+    /* Center and scale the image nicely */
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg6 {
+    /* The image used */
+    background-image: url("https://img.hebus.com/hebus_2016/01/26/preview/1453808572_19260.jpg");
+
+    /* Full height */
+   
+   height:30%;
+   width:auto;
+  
+    /* Center and scale the image nicely */
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+	.bg2{
+	 background-color:black;
+	 height:auto;
+	 width:100%;
+	
+	}
+.container2{
+	width:1200px;
+	height:auto;
+	   box-shadow: 8px 15px 0px 0px rgba(0,0,0,0.6);
+  
+	
+	  transition: 0.3s;
+	
+     padding-top: 10px;
+    padding-right: 150px;
+    padding-bottom: 150px;
+    padding-left: 150px;
+		position: relative;
+		margin:0 auto;
+		
+	
+}
+.container3{
+
+			width:1200px;
+			height:30px;
+				
+
+    padding-right: 100px;
+    padding-bottom: 10px;
+    padding-left: 100px;
+		position: relative;
+	
+
+}
+.container4{
+
+			width:auto;
+			height:500px;
+				
+     padding-top: 100px;
+    padding-right: 100px;
+ padding-bottom: 150px;
+    padding-left: 100px;
+		position: relative;
+		margin:0 auto;
+
+}
+.container5{
+
+			width:1200px;
+			height:20px;
+			padding-left:100px	
+ 
+
+}
+
+
+.brand1{
+		padding-left:1100px;
+     
+			
+
+		}
+.conpad{
+
+
+	padding-top:100px;
+	
+	padding-bottom:100px;
+}
+	.sha2{
+sha: 8px 4px 8px 4px rgba(255,255,255,0.8);
+}	
+		
+.navbar{
+
+
+ background-color: black;
+
+}
+
+
+
+.myButton {
+	background-color:transparent;
+	-moz-border-radius:32px;
+	-webkit-border-radius:42px;
+	border-radius:42px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:10px;
+	font-weight:bold;
+	padding:22px 31px;
+	text-decoration:none;
+	text-shadow:1px 3px 27px #2f6627;
+}
+.myButton:hover {
+	background-color:transparent;
+}
+.myButton:active {
+	position:relative;
+	top:5px;
+}
